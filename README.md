@@ -2,6 +2,8 @@
 
 This is an image comparison slider created for a story about the Country Fair.
 
+![screenshot](https://github.com/rgpages/Country-Fair-slider/blob/gh-pages/default.gif)
+
 **[Working example](http://pages.registerguard.com/slider/)**
 
 **[Working story example](http://registerguard.com/rg/staging/31724631-110/fair-bob-indya-oregon-says.html.csp)**
